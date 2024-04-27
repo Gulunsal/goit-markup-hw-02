@@ -148,10 +148,10 @@ font-weight: 400;
 
 .logo-footer {
     color: #f4f4fd;
+    font-weight: 700;
 }
 
 .logo-footer-text {
-    font-weight: 700;
     line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
