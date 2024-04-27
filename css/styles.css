@@ -50,7 +50,6 @@ body {
 .contacts {
     font-style: normal;
 }
-.list {list-style: none;}
 
 .part-one {
     background-color: #2e2f42;
@@ -82,7 +81,7 @@ body {
 .button:focus {
     background-color: #404bbf;
 }
-.mission-list {
+.list, .mission-list, .portfolio-list {
     list-style: none;
 }
 
@@ -133,7 +132,7 @@ font-weight: 400;
 .portfolio-list-item {
     background-color: #fff;
     padding: 32px;
-    list-style: none;
+   
 }
 
 .portfolio-list-text {
